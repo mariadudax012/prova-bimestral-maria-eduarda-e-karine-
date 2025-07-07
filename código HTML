@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+            <div>
+                <img src="#">
+            </div>
+                <nav>
+                        <a href="#" class="q">
+                            Destinations
+                        </a>
+                        <a href="#" class="an">
+                            Hoteis
+                        </a>
+                        <a href="#" class="ac">
+                            fligths
+                        </a>
+                        <a href="#" class="ad">
+                            Backings
+                        </a>
+                        <a href="#" class="ag">
+                            Login
+                        </a>
+                        <button class="am">Sign UP</button>
+                        <select name="linguas" id="limguas" class="ax">
+                            <option value="en">EN</option>
+                        </select>
+                        </select>
+                </nav>
+    </header>
+    <main>
+        <section class="primi">
+            <h6>Best Destinations around the word</h6>
+            <h1>
+                Travel enjoy  <br>
+                and live a new <br> and full life
+            </h1>
+            <span class="g">Bult wicket konger admire da bartoh vanity itself do in it...</span>
+            <div class="f">
+                <button>Find out more</button>
+                <a href="#"><img src="#"></a>
+                <span>Play demo</span>
+            </div>
+            <img src="https://img.freepik.com/fotos-gratis/mulher-sorridente-de-tiro-completo-com-bagagem-amarela_23-2149380130.jpg?semt=ais_hybrid&w=740" class="mulher">
+        </section>
+            <h3>Category</h3>
+            <h2 class="x">
+                We offer Best Services
+            </h2>
+        <section class="segundo">
+            <div class="o">
+                <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/12015831-antena-parabolica-de-desenho-a-mao-livre-vetor.jpg" class="l">
+                <h3>Calculated Weather</h3>
+                <p>Bult wicket longer admire do barton vanity itsel in it</p>
+            </div>
+            <div class="o">
+                <img src="https://media.istockphoto.com/id/1314724689/pt/vetorial/airplane-fly-icon-plane-flying-with-line.jpg?s=612x612&w=0&k=20&c=ESLamRQy_yfP-ZJSsYnQQgWTYoOEPeKCfgGrVshb5ew=" class="l">
+                <h3>
+                    Best Fligths
+                </h3>
+                <p>Engrossed listening park gate sell...</p>
+            </div>
+            <div class="o">
+                <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL29ooFzHu16CFepwd7EK7nfcnXnOfCy1J1A&s " class="l">
+                <h3>Local Events</h3>
+                <p>Barton vanity itself do in it...</p>
+            </div>
+            <div class="o">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkH-sMfABZVkaEgV_mMPO8KfTnabqY4yq4aQ&s" class="l">
+                <h3>Customization</h3>
+                <p>We deliver autosourced aviotion services for military customers</p>
+            </div>
+        </section>
+        <h6 class="j">Top Selling</h6>
+        <h2 class="j">Top Destinations</h2>
+        <section class="ter">
+           <div class="re">
+                <img src=" https://images.unsplash.com/photo-1552832230-c0197dd311b5?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aXQlQzMlQTFsaWElMjByb21hfGVufDB8fDB8fHww">
+                <p>
+                    <span class="m">
+                        Rome, Italy
+                    </span> 
+                    <span class="tu">$5.4K</span> <br>
+                    <span class="ly">10 days trip</span>
+                </p>
+            </div>
+            <div class="re">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zyKAaN2Jg-zU6BTDBwGWq7nm8acKO2s7Dg&s">
+                <p>
+                    <span class="m">
+                        London, Uk
+                    </span>
+                    <span class="tu">$4.2K</span> <br>
+                    <span class="ly">12 days trip</span>
+                </p>
+            </div>
+            <div class= "re"> 
+                <img src="https://midias.eurodicas.com.br/wp-content/uploads/2024/06/paises-da-europa-com-melhor-qualidade-de-vida.jpg.webp">
+                <p>
+                    <span class="m">
+                       Full Europe
+                    </span>
+                    <span class="tu">$15K</span> <br>
+                    <span class="ly">25 days trip</span>
+                </p>
+            </div>
+        </section>
+        <section class="op">
+            <span class="es">Easy and fast</span>
+            <h2>
+                Book your next trip in 3 easy steps
+            </h2>
+            <div class="xk">
+                <h4>Chose Destinations</h4>
+                <p>Lorem ipsum dolor sit amet, consecteur...</p>
+            </div>
+            <div class="jk">
+                <h4>Make payment</h4>
+                <p>Lorem ipsum dolor sit amet, consecteur...</p>
+            </div>
+            <div class="lk">
+                <h4>Reach Airport on selct date</h4>
+                <p>Lorem ipsum dolor sit amet, consecteur...</p>
+            </div>
+                <div class="xj">
+                    <img src="https://as1.ftcdn.net/v2/jpg/02/70/72/66/500_F_270726687_pDV85dM2DaOSFZTFcI4oAbXkAFSt3DMj.jpg" class="na" img 9" class="na">
+                    <h6>Trip to Greece</h6>
+                    <span class="pq">14-29 June | by Robbin Jhonson</span>
+                    <div class="js">
+                        <img src="#"> <img src="#"> <img src="#">
+                    </div>
+                    <span class="gk">24 people agains</span>
+                </div>
+        </section>
+        <for    m action="email" method="post" class="form">
+            <div class="lz">
+                <h2>
+                    Subscribe to get information, latest news and other <br> interesting offers about Jadoo
+                </h2>
+                <input type="email" name="email" class="w">
+                <button>Subscribe</button>
+            </div>
+        </form>
+    </main>
+</body>
+</html>
